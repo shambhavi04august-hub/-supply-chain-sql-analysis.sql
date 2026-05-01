@@ -17,7 +17,7 @@ This project uses SQL to analyze supply chain and logistics data, focusing on ex
 
 ## 📂 Project Files
 
-🔽 [Download SQL File](supply-chain-sql-analysis.sql)
+🔽 [Download SQL File](supply-chain-sql-analysis)
 
 ## 🔍 Key Analysis
 
